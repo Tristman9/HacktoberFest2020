@@ -619,3 +619,7 @@ About: Student of Bio Technology <br/>
 Place: West Jakarta, Indonesia<br/>
 About: Student of Software Enginering <br/>
 </br>
+Name: [Tristan Dobos](https://github.com/Tristman9)</br>
+Place: Slovakia</br>
+About: Hight school student</br>
+</br>
